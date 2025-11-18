@@ -32,7 +32,6 @@ If GitHub Packages is not your default package registry for using npm and you wa
   > Email: PUBLIC-EMAIL-ADDRESS
 ```
 
-### Pushing packages
 
 #### Publishing a package using a local .npmrc file
 

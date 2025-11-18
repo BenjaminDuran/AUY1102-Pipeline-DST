@@ -33,7 +33,6 @@ If GitHub Packages is not your default package registry for using npm and you wa
 ```
 
 
-#### Publishing a package using a local .npmrc file
 
 You can use an .npmrc file to configure the scope mapping for your project. In the .npmrc file, use the GitHub Packages URL and account owner so GitHub Packages knows where to route package requests. Using an .npmrc file prevents other developers from accidentally publishing the package to npmjs.org instead of GitHub Packages.
 
